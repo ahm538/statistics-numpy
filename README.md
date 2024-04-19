@@ -1,4 +1,4 @@
-# write the answer
+
 import numpy as np
 
 # Exam scores for a group of students
